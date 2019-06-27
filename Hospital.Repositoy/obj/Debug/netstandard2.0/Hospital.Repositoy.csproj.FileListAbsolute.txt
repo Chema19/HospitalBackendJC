@@ -1,0 +1,96 @@
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.deps.json
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/bin/Debug/netstandard2.0/Hospital.Entity.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csprojAssemblyReference.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CoreCompileInputs.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfoInputs.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.AssemblyInfo.cs
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.csproj.CopyComplete
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Repositoy/obj/Debug/netstandard2.0/Hospital.Repositoy.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.deps.json
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csprojAssemblyReference.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CoreCompileInputs.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfoInputs.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfo.cs
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CopyComplete
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.deps.json
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Repositoy.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\bin\Debug\netstandard2.0\Hospital.Entity.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csprojAssemblyReference.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CoreCompileInputs.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfoInputs.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.AssemblyInfo.cs
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.csproj.CopyComplete
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Repositoy\obj\Debug\netstandard2.0\Hospital.Repositoy.pdb

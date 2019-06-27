@@ -1,0 +1,168 @@
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/USUARIO/Documents/aw/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/USUARIO/Documents/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+C:/Users/Hamp/Documents/Proyecto(1)(1)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+E:/Proyecto(4)/Proyecto/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+/Users/hamp/Downloads/Proyecto - Copy/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.deps.json
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.json
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.runtimeconfig.dev.json
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Api.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Service.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Entity.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/bin/Debug/netcoreapp2.2/Hospital.Repositoy.pdb
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csprojAssemblyReference.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CoreCompileInputs.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorAssemblyInfo.cs
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfoInputs.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.AssemblyInfo.cs
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.RazorTargetAssemblyInfo.cache
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.csproj.CopyComplete
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.dll
+/Users/hamp/Downloads/HospitalV4MasterDetails/Backend/Hospital.Api/obj/Debug/netcoreapp2.2/Hospital.Api.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.deps.json
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.runtimeconfig.json
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.runtimeconfig.dev.json
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Entity.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Repositoy.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Service.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Service.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Entity.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Repositoy.pdb
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csprojAssemblyReference.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csproj.CoreCompileInputs.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorAssemblyInfo.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorAssemblyInfo.cs
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.AssemblyInfoInputs.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.AssemblyInfo.cs
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorTargetAssemblyInfo.cache
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csproj.CopyComplete
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.dll
+C:\HospitalV4MasterDetails\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.deps.json
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.runtimeconfig.json
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.runtimeconfig.dev.json
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Api.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Entity.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Repositoy.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Service.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Service.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Entity.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\bin\Debug\netcoreapp2.2\Hospital.Repositoy.pdb
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csprojAssemblyReference.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csproj.CoreCompileInputs.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorAssemblyInfo.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorAssemblyInfo.cs
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.AssemblyInfoInputs.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.AssemblyInfo.cs
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.csproj.CopyComplete
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.dll
+C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Api\obj\Debug\netcoreapp2.2\Hospital.Api.pdb

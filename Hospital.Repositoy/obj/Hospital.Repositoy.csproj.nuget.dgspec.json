@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
+        "projectName": "Hospital.Entity",
+        "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\Hospital.Entity.csproj",
+        "packagesPath": "C:\\Users\\Josemaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josemaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://200.60.145.24/bpnuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "CoreCompat.System.ComponentModel.DataAnnotations": {
+              "target": "Package",
+              "version": "[4.2.3-r7, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
+        "projectName": "Hospital.Repositoy",
+        "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
+        "packagesPath": "C:\\Users\\Josemaria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josemaria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://200.60.145.24/bpnuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\Hospital.Entity.csproj": {
+                "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Entity\\Hospital.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
