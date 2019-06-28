@@ -3906,11 +3906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.service\\Hospital.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Service\\Hospital.Service.csproj",
       "projectName": "Hospital.Service",
-      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.service\\Hospital.Service.csproj",
+      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Service\\Hospital.Service.csproj",
       "packagesPath": "C:\\Users\\Josemaria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.service\\obj\\",
+      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

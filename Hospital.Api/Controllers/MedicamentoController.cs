@@ -26,6 +26,5 @@ namespace Hospital.Api.Controllers {
                 medicamentoService.fetchMedicamentoByName(texto)
             );
         }
-
     }
 }

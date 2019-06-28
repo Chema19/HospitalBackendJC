@@ -985,7 +985,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.ApiExplorer.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
+      "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Core": "2.2.0",
@@ -5400,16 +5400,16 @@
         "microsoft.aspnetcore.mvc.apiexplorer.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Mvc.Core/2.2.0": {
-      "sha512": "ALiY4a6BYsghw8PT5+VU593Kqp911U3w9f/dH9/ZoI3ezDsDAGiObqPu/HP1oXK80Ceu0XdQ3F0bx5AXBeuN/Q==",
+    "Microsoft.AspNetCore.Mvc.Core/2.2.5": {
+      "sha512": "Id6yaz5a9XZih0vllyNiKC2Aht5cQcLhmtSggowMkQCyMwPWMk9KyC+BKZB01bfOJzODOW0adQymigmILmj7rw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.mvc.core/2.2.0",
+      "path": "microsoft.aspnetcore.mvc.core/2.2.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Mvc.Core.xml",
-        "microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
         "microsoft.aspnetcore.mvc.core.nuspec"
       ]
     },
@@ -8289,7 +8289,6 @@
       "path": "system.componentmodel/4.0.1",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12535,6 +12534,7 @@
       "Hospital.Entity >= 1.0.0",
       "Hospital.Service >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Mvc.Core >= 2.2.5",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
       "Swashbuckle.AspNetCore >= 4.0.1"
@@ -12547,11 +12547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.api\\Hospital.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Api\\Hospital.Api.csproj",
       "projectName": "Hospital.Api",
-      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.api\\Hospital.Api.csproj",
+      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Api\\Hospital.Api.csproj",
       "packagesPath": "C:\\Users\\Josemaria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.api\\obj\\",
+      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12594,6 +12594,10 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Mvc.Core": {
+            "target": "Package",
+            "version": "[2.2.5, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",

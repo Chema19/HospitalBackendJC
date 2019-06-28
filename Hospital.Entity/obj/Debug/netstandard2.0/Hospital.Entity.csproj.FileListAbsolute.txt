@@ -69,4 +69,3 @@ C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backen
 C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.AssemblyInfo.cs
 C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.dll
 C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.pdb
-C:\Users\Josemaria\Desktop\EXPERIMENTO\APP Net Core\Proyecto Hospital SQL\Backend\Hospital.Entity\obj\Debug\netstandard2.0\Hospital.Entity.csprojAssemblyReference.cache

@@ -15,6 +15,7 @@ namespace Hospital.Api.Controllers
         {
             this.pacienteService = pacienteService;
         }
+        
 
         [HttpGet]
         public ActionResult Get()
@@ -28,7 +29,7 @@ namespace Hospital.Api.Controllers
         public ActionResult Post([FromBody] Paciente paciente)
         {
             return Ok(
-                pacienteService.Save(paciente)
+                SavePaciente(paciente)
             );
         }
 
@@ -36,7 +37,7 @@ namespace Hospital.Api.Controllers
         public ActionResult Put([FromBody] Paciente paciente)
         {
             return Ok(
-                pacienteService.Update(paciente)
+                EditPaciente(paciente)
             );
         }
 
@@ -46,6 +47,17 @@ namespace Hospital.Api.Controllers
             return Ok(
                 pacienteService.Delete(id)
             );
+        }
+
+        public bool SavePaciente(Paciente paciente)
+        {
+            var dato = pacienteService.Save(paciente);
+            return pacienteService.Save(paciente);
+        }
+
+        public bool EditPaciente(Paciente paciente)
+        {
+            return pacienteService.Update(paciente);
         }
 
     }

@@ -3887,11 +3887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.repositoy\\Hospital.Repositoy.csproj",
+      "projectUniqueName": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
       "projectName": "Hospital.Repositoy",
-      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.repositoy\\Hospital.Repositoy.csproj",
+      "projectPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\Hospital.Repositoy.csproj",
       "packagesPath": "C:\\Users\\Josemaria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\hospital.repositoy\\obj\\",
+      "outputPath": "C:\\Users\\Josemaria\\Desktop\\EXPERIMENTO\\APP Net Core\\Proyecto Hospital SQL\\Backend\\Hospital.Repositoy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

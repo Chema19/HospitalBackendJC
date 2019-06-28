@@ -14,6 +14,12 @@ namespace Hospital.Repositoy.implementation
         {
             this.context = context;
         }
+
+        public PacienteRepository()
+        {
+            this.context = new ApplicationDbContext();
+        }
+
         public Paciente Get(int id)
         {
             var result = new Paciente();
@@ -49,6 +55,22 @@ namespace Hospital.Repositoy.implementation
 
         public bool Save(Paciente entity)
         {
+            try
+            {
+                context.Add(entity);
+                context.SaveChanges();
+            }
+            catch (System.Exception)
+            {
+
+                return false;
+            }
+            return true;
+        }
+
+        public bool SavePaciente(Paciente entity)
+        {
+
             try
             {
                 context.Add(entity);

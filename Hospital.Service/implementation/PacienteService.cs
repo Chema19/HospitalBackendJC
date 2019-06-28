@@ -8,11 +8,15 @@ namespace Hospital.Service.implementation
     {
 
         private IPacienteRepository pacienteRepository;
+
         public PacienteService(IPacienteRepository pacienteRepository)
         {
             this.pacienteRepository=pacienteRepository;
         }
-        
+
+        public PacienteService() {
+        }
+
         public bool Delete(int id)
         {
             return pacienteRepository.Delete(id);

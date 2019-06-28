@@ -14,6 +14,11 @@ namespace Hospital.Repositoy.implementation {
             this.context = context;
         }
 
+        public OrdenRepository()
+        {
+            this.context = new ApplicationDbContext();
+        }
+
         public bool Delete (int id) {
             throw new System.NotImplementedException ();
         }
@@ -29,6 +34,7 @@ namespace Hospital.Repositoy.implementation {
                 .OrderByDescending (o => o.Id)
                 .Take (10)
                 .ToList ();
+            
 
             return orden.Select (o => new OrdenViewModel {
                 Id = o.Id,
@@ -37,7 +43,7 @@ namespace Hospital.Repositoy.implementation {
                     NombrePaciente = o.Paciente.Nombres,
                     Total = o.Total,
                     PagoMetodo = o.PagoMetodo
-            });
+            }).ToList();
         }
 
         IEnumerable<Orden> IRepository<Orden>.GetAll () {
@@ -73,13 +79,18 @@ namespace Hospital.Repositoy.implementation {
                 context.Ordenes.Add (orden);
                 context.SaveChanges ();
                 var ordenId = orden.Id;
-                foreach (var item in entity.DetalleOrden) {
-                    DetalleOrden detalle = new DetalleOrden {
-                        OrdenId = ordenId,
-                        MedicamentoId = item.MedicamentoId,
-                        Cantidad = item.Cantidad
-                    };
-                    context.DetalleOrdenes.Add (detalle);
+                if (entity.DetalleOrden !=  null)
+                {
+                    foreach (var item in entity.DetalleOrden.ToList())
+                    {
+                        DetalleOrden detalle = new DetalleOrden
+                        {
+                            OrdenId = ordenId,
+                            MedicamentoId = item.MedicamentoId,
+                            Cantidad = item.Cantidad
+                        };
+                        context.DetalleOrdenes.Add(detalle);
+                    }
                 }
                 context.SaveChanges ();
             } catch (Exception ex) {
